@@ -7,7 +7,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author_email='yuhui.li@stu.pku.edu.cn',
-    url='https://github.com/SafeAILab/EAGLE',
+    url='https://github.com/0xda203/EAGLE',
     packages=find_packages(),
     install_requires=[
         'torch==2.0.1',
