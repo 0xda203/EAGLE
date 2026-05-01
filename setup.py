@@ -7,10 +7,10 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author_email='yuhui.li@stu.pku.edu.cn',
-    url='https://github.com/0xda203/EAGLE',
+    url='https://github.com/SafeAILab/EAGLE',
     packages=find_packages(),
     install_requires=[
-        'torch==2.0.1',
+        'torch>=2.0.1',
         'transformers==4.46.2',
         'accelerate==0.21.0',
         'fschat==0.2.31',
