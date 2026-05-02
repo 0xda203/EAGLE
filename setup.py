@@ -11,7 +11,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'torch>=2.0.1',
-        'transformers==4.46.2',
+        'transformers==4.53.1',
         'accelerate==0.21.0',
         'fschat==0.2.31',
         'gradio==3.50.2',
